@@ -1,1 +1,8 @@
-111
+pip 安装
+    python 包安装
+        pip install -i 国内镜像源网址 包名
+    指定版本安装
+        pip install 包名==1.0.4
+    指定卸载某个包
+        pip uninstall 包名
+
