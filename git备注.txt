@@ -6,3 +6,5 @@ pip 安装
     指定卸载某个包
         pip uninstall 包名
 
+
+
