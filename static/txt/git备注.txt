@@ -5,6 +5,7 @@ pip 安装
         pip install 包名==1.0.4
     指定卸载某个包
         pip uninstall 包名
+        备注
 
 
 
